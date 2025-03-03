@@ -122,19 +122,27 @@ h1, h2, h3 {
 
 .about, .experience, .skills, .education, .contact, .professional-development{
   width: 100%;
-  max-width: 800px;
+  max-width: 1000px;
   background: rgba(255, 255, 255, 0.1);
   padding: 15px;
-  margin-bottom: 20px;
-  border-radius: 10px;
-  font-size: 20px;
+  margin-bottom: 30px;
+  border-radius: 16px;
+  font-size: 22.5px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
 }
 
 .job {
   background: rgba(255, 255, 255, 0.1);
   padding: 10px;
-  margin-top: 10px;
-  border-radius: 5px;
+  margin-top: 20px;
+  border-radius: 16px;
+  -webkit-border-radius: 16px;
+  -moz-border-radius: 16px;
+  -ms-border-radius: 16px;
+  -o-border-radius: 16px;
 }
 
 .skills ul {
@@ -148,7 +156,11 @@ h1, h2, h3 {
   list-style: none;
   background: rgba(255, 255, 255, 0.2);
   padding: 5px 10px;
-  border-radius: 5px;
+  border-radius: 10px;
+  -webkit-border-radius: 10px;
+  -moz-border-radius: 10px;
+  -ms-border-radius: 10px;
+  -o-border-radius: 10px;
 }
 
 
